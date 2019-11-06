@@ -23,10 +23,11 @@
 define( 'DB_NAME', 'wp-dark-2019' );
 
 /** MySQL database username */
-define( 'DB_USER', 'admin' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'e5cd6f519f782392793db66a3f545447cc7da85872c54d66' );
+define( 'DB_PASSWORD', '' );
+//e5cd6f519f782392793db66a3f545447cc7da85872c54d66
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
